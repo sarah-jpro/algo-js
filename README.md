@@ -5,6 +5,8 @@
 \*Due to its simplicity it is a good tool to learn algorithmics. Trainees will also have the added benefit of knowing a widely available programming language at the end of this course.
 
 Ce dossier Repo contient :
--un dossier Exercise 1
--un dossier Exercice 2
--un dossier Exercise 3
+
+- un dossier Exercise 1
+- un dossier Exercice 2
+- un dossier Exercise 3
+- un dossier Exercice 4
